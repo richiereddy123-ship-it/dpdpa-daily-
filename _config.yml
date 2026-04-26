@@ -147,6 +147,9 @@ pwa:
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
+# Show posts dated in the future (otherwise Jekyll silently skips them)
+future: true
+
 paginate: 10
 
 # The base URL of your site
