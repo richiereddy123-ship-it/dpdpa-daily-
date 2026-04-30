@@ -1,0 +1,31 @@
+---
+title: "Navigating Consent: DPDPA's Specificity Meets GDPR's Standards"
+date: 2026-04-30 11:05:35 +0530
+categories: [analysis, comparative]
+tags: [DPDPA, GDPR, Consent, Data Privacy, India, comparative]
+---
+
+As India’s Digital Personal Data Protection Act (DPDPA), 2023, fully takes effect, businesses operating in the country are grappling with its implications, particularly around the core principle of consent. For organisations with a global footprint, understanding how DPDPA’s requirements stack up against established frameworks like the EU’s General Data Protection Regulation (GDPR) is crucial. This analysis delves into the nuances of consent under DPDPA Section 6 and GDPR Article 7, focusing on granularity, withdrawal mechanisms, and the onus of proof.
+
+## Granularity and Specificity in Consent
+Both the DPDPA and GDPR demand a high degree of specificity when obtaining consent for personal data processing. Under DPDPA Section 6(1)(a), a Data Fiduciary must provide the Data Principal with an "itemised notice" detailing the personal data to be collected, the purpose of processing, and how to exercise their rights. Furthermore, Section 6(1)(b) explicitly states that consent must be "specific" for the stated purposes. This "itemised notice" requirement suggests a particularly granular approach, compelling Data Fiduciaries to clearly delineate each data point and its corresponding use case.
+
+GDPR Article 7(2) mandates that if consent is part of a written declaration, it must be clearly distinguishable from other matters. More broadly, GDPR Recital 32 defines consent as a "freely given, specific, informed and unambiguous indication" of the data subject’s wishes, while Recital 42 clarifies that consent should relate to "particular purposes." While GDPR doesn't use the term "itemised notice," interpretations by European data protection authorities often push for similar levels of detail regarding processing purposes and categories of data. DPDPA's explicit "itemised notice" might be seen as codifying a stricter, more prescriptive standard for transparency at the point of consent, ensuring Data Principals have a very clear understanding of the data exchange.
+
+## Ease of Withdrawal and Its Implications
+The ability for Data Principals to withdraw their consent is a cornerstone of both frameworks, designed to empower individuals. DPDPA Section 6(4) unequivocally grants the Data Principal the right to withdraw consent at any time, stipulating that the process for withdrawal must be as easy as the process for giving consent. Upon withdrawal, the Data Fiduciary is obliged to cease processing the personal data within a "reasonable time," unless such processing is required by law.
+
+Similarly, GDPR Article 7(3) states that data subjects have the right to withdraw consent at any time and that the withdrawal process must be as easy as giving it. Both laws agree that the lawfulness of processing based on consent before its withdrawal remains unaffected. The DPDPA's explicit inclusion of "reasonable time" for cessation, while implicitly understood under GDPR, provides a clear directive for Indian businesses to operationalise swift cessation of processing activities post-withdrawal. This could lead to more stringent internal deadlines and accountability mechanisms for Data Fiduciaries in India.
+
+## Onus of Proof: A Shared Burden
+A critical aspect of accountability in data protection is determining who bears the responsibility of proving valid consent. On this front, both the DPDPA and GDPR are in strong alignment. DPDPA Section 6(5) clearly places the "burden of proving that consent was obtained in accordance with the provisions of this Act" on the Data Fiduciary. This unambiguous provision ensures that Data Fiduciaries cannot merely assert consent but must actively demonstrate its validity.
+
+GDPR Article 7(1) echoes this principle, stating that "where processing is based on consent, the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data." This shared emphasis underscores a global shift towards greater accountability for organisations handling personal data, requiring robust record-keeping and auditable consent management systems.
+
+## Indian Nuances and Sectoral Considerations
+Beyond the direct comparison, DPDPA introduces specific features relevant to the Indian context. Section 6(2) allows for consent to be given through a "Consent Manager," a unique entity registered with the Data Protection Board of India, designed to provide a transparent and interoperable platform for managing consent. This innovation could streamline consent management for Data Principals and Fiduciaries alike, potentially setting a new global standard for consent orchestration.
+
+Furthermore, while DPDPA is the overarching law, sectoral regulations, particularly from the Reserve Bank of India (RBI), continue to impose specific and often stricter consent requirements for financial data. For instance, RBI guidelines frequently mandate explicit, granular consent for data sharing and processing within the financial sector, sometimes predating DPDPA or adding layers of compliance. This means Indian businesses, especially in regulated sectors, must navigate DPDPA's requirements alongside these existing, and sometimes more stringent, sectoral mandates.
+
+## Practical Takeaway
+For Indian businesses, General Counsels, and Data Protection Officers, the DPDPA’s consent framework, while sharing foundational principles with GDPR, demands careful attention to its specific nuances. The "itemised notice" requirement under DPDPA Section 6(1)(a) necessitates a detailed review of consent notices to ensure absolute clarity on data types and purposes. Operationalising the "reasonable time" for consent withdrawal (Section 6(4)) requires efficient internal processes. Finally, the explicit onus of proof (Section 6(5)) means investing in robust, auditable consent management systems is not just good practice but a legal imperative. Businesses must also remain vigilant about how DPDPA interacts with existing sectoral regulations, ensuring a holistic approach to consent compliance across all operations.
