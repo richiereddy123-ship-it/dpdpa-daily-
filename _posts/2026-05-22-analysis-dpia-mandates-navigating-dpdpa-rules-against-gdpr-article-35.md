@@ -1,0 +1,36 @@
+---
+title: "DPIA Mandates: Navigating DPDPA Rules Against GDPR Article 35"
+date: 2026-05-22 12:05:04 +0530
+categories: [analysis, comparative]
+tags: [DPDPA, GDPR, DPIA, Data Protection, Compliance, comparative]
+---
+
+As Indian enterprises increasingly navigate a complex global data landscape, understanding the nuances of Data Protection Impact Assessments (DPIAs) under the Digital Personal Data Protection Act, 2023 (DPDPA) and its accompanying Rules, compared to established frameworks like the EU's General Data Protection Regulation (GDPR), is paramount. DPIAs serve as a critical risk management tool, compelling Data Fiduciaries to proactively identify, assess, and mitigate privacy risks before processing personal data.
+
+## Foundational Requirements and Triggers
+
+The DPDPA, in Section 10(2), empowers the Central Government to prescribe the circumstances under which a Data Fiduciary must undertake a DPIA. As of May 2026, the DPDPA Rules have been notified, detailing these triggers. They generally mandate a DPIA for processing activities that pose a "significant risk" to the rights of Data Principals. This includes, but is not limited to, large-scale processing of sensitive personal data, systematic monitoring of public areas, processing involving new technologies with potential privacy implications, and profiling that could lead to discriminatory outcomes. Furthermore, Section 10(1) specifically requires "Significant Data Fiduciaries" (SDFs) – designated based on criteria like volume and sensitivity of data processed, risk to Data Principals, and potential impact on public order – to mandatorily conduct DPIAs for any processing that carries a high risk.
+
+In contrast, GDPR Article 35(1) directly stipulates that a DPIA is required when a type of processing "is likely to result in a high risk to the rights and freedoms of natural persons." Article 35(3) provides a non-exhaustive list of scenarios, such as systematic and extensive evaluation of personal aspects based on automated processing (including profiling), large-scale processing of special categories of data or data relating to criminal convictions, and systematic monitoring of a publicly accessible area on a large scale. While both frameworks anchor the requirement to a "high risk" threshold, the DPDPA delegates the precise triggers to subsequent Rules, potentially allowing for greater adaptability to India's specific digital ecosystem, but also requiring businesses to stay updated on these specific mandates.
+
+## Scope and Content of the Assessment
+
+The DPDPA Rules, building on Section 10(2), prescribe the essential elements of a DPIA. These typically include a comprehensive description of the proposed processing operations and their purposes, an assessment of the necessity and proportionality of the processing in relation to the purposes, an assessment of the risks to the rights of Data Principals, and the measures envisaged to address those risks, including safeguards, security measures, and mechanisms to ensure the protection of personal data. The DPDPA's emphasis on "Legitimate Uses" under Section 7 might also implicitly guide the proportionality assessment, requiring Fiduciaries to demonstrate that processing aligns with these permissible grounds.
+
+GDPR Article 35(7) similarly outlines the minimum content of a DPIA: a systematic description of the envisaged processing operations and the purposes of the processing; an assessment of the necessity and proportionality of the processing in relation to the purposes; an assessment of the risks to the rights and freedoms of data subjects; and the measures envisaged to address the risks, including safeguards, security measures, and mechanisms to ensure the protection of personal data. The substantive content requirements are largely aligned, reflecting a global consensus on best practices for privacy risk assessment. The DPDPA Rules, however, may introduce specific Indian contextual considerations, such as the unique challenges posed by digital public infrastructure.
+
+## Consultation and Regulatory Oversight
+
+Under the DPDPA, while Section 10(2) allows for rules to prescribe the "manner" of conducting DPIAs, it does not explicitly mandate prior consultation with the Data Protection Board (DPB) or Data Principals for all high-risk processing activities. However, the DPB, as the enforcement body under Section 19, would certainly scrutinize the adequacy of DPIAs during investigations. For SDFs, the DPDPA Rules may impose stricter internal governance requirements regarding DPIA review and approval, potentially including a requirement to submit DPIA summaries or findings to the DPB in certain high-risk scenarios.
+
+GDPR Article 35(2) encourages seeking the views of data subjects or their representatives where appropriate. More significantly, GDPR Article 36 mandates prior consultation with the supervisory authority (the relevant Data Protection Authority) *before* processing begins if the DPIA indicates that the processing would result in a high residual risk in the absence of measures taken by the controller to mitigate the risk. This explicit requirement for prior regulatory consultation for unmitigated high risks is a key difference where the DPDPA appears more silent, leaving such requirements to be potentially introduced through specific Rules or guidelines issued by the DPB.
+
+## Penalties for Non-Compliance
+
+Both regimes impose significant penalties for non-compliance with DPIA obligations. Under the DPDPA, failure by a Significant Data Fiduciary to perform a DPIA or other prescribed measures can lead to a penalty of up to INR 150 crore, as stipulated in Schedule 1 of the Act. The DPB is empowered under Section 27 to impose these penalties following an inquiry.
+
+GDPR Article 83(4)(a) specifies that infringements related to DPIA requirements (e.g., failing to conduct one when required, or failing to consult the supervisory authority) are subject to administrative fines of up to €10 million, or in the case of an undertaking, up to 2% of the total worldwide annual turnover of the preceding financial year, whichever is higher. Both frameworks demonstrate a serious commitment to ensuring compliance with DPIA mandates through substantial financial deterrents.
+
+## Practical takeaway
+
+For Indian businesses, General Counsels, and Data Protection Officers, the DPDPA Rules on DPIAs demand immediate attention. While the DPDPA shares foundational principles with GDPR, particularly around the "high risk" threshold and content, its specific triggers and procedural requirements are now codified in the DPDPA Rules. Businesses must meticulously review these Rules to identify when a DPIA is triggered, especially if designated as a Significant Data Fiduciary. Proactive adoption of a robust, documented DPIA process, aligned with global best practices but tailored to DPDPA specifics, is crucial. This includes not only conducting the assessment but also regularly reviewing and updating it, and ensuring internal accountability. While the DPDPA may not always mandate prior consultation with the DPB in the same explicit manner as GDPR, it is prudent to anticipate scenarios where such engagement may be beneficial or eventually required by further guidance.
