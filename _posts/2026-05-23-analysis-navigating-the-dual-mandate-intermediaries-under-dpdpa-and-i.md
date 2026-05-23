@@ -1,0 +1,32 @@
+---
+title: "Navigating the Dual Mandate: Intermediaries Under DPDPA and IT Rules 2021"
+date: 2026-05-23 11:05:41 +0530
+categories: [analysis, india]
+tags: [DPDPA, IT Rules 2021, Intermediaries, Data Privacy, India, india-focused]
+---
+
+May 23, 2026. The Digital Personal Data Protection Act (DPDPA), 2023, is now firmly entrenched in India's regulatory landscape, fundamentally reshaping how personal data is handled. For online intermediaries – from social media platforms to e-commerce sites and cloud service providers – this new regime doesn't operate in a vacuum. Instead, it overlays existing obligations, most notably those prescribed by the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 (IT Rules 2021). The interplay between these two powerful frameworks presents a complex, yet critical, compliance challenge for entities operating in the Indian digital ecosystem.
+
+## The Intermediary's Dual Hat: Data Fiduciary and Platform Provider
+
+Under the DPDPA, most intermediaries inherently qualify as 'Data Fiduciaries' (DPDPA Section 2(i)) for the personal data they collect and process from their users – be it names, email addresses, payment information, or usage patterns. This designation brings with it a host of responsibilities, including obtaining valid consent, ensuring data accuracy, and implementing robust security measures. Concurrently, as platform providers, these same entities are governed by the IT Rules 2021, which impose specific due diligence requirements (IT Rules 2021, Rule 3), content moderation obligations, and elaborate grievance redressal mechanisms, particularly for Significant Social Media Intermediaries (SSMIs) (IT Rules 2021, Rule 4). The challenge lies in harmonising these mandates, ensuring that actions taken to comply with one do not inadvertently conflict with the other. For instance, data collected for DPDPA-mandated consent records (DPDPA Section 6) might also be crucial for demonstrating adherence to IT Rules' traceability provisions, where applicable, requiring careful data lifecycle management.
+
+## Consent, Transparency, and Due Diligence
+
+The DPDPA places paramount importance on the lawful processing of personal data, primarily through explicit, informed, and granular consent (DPDPA Section 6). Data Fiduciaries must provide Data Principals with clear, itemised notices detailing the purposes of processing (DPDPA Section 5). This transparency principle finds a parallel in the IT Rules 2021, which mandate intermediaries to publish their rules and regulations, privacy policy, and user agreement, and periodically inform users about any changes (IT Rules 2021, Rule 3(1)(a)). For intermediaries, this means integrating their DPDPA-compliant consent mechanisms directly into their user onboarding and service provision flows, ensuring that the privacy policy and terms of service also clearly articulate data handling practices in line with DPDPA's requirements. The duty to ensure data accuracy and completeness (DPDPA Section 11) further reinforces the need for diligent data management, which can also aid in fulfilling IT Rules' obligations related to user identity verification in certain contexts.
+
+## Integrated Grievance Redressal and User Rights
+
+Both the DPDPA and the IT Rules 2021 establish robust mechanisms for user grievance redressal, creating an imperative for a unified approach. The DPDPA grants Data Principals significant rights, including the right to access information, correction, and erasure of their personal data (DPDPA Section 12), and mandates the appointment of a Grievance Redressal Officer (GRO) by the Data Fiduciary (DPDPA Section 13(1)). Simultaneously, the IT Rules 2021 require intermediaries, especially SSMIs, to appoint a resident Grievance Officer (GO) to address user complaints related to content, platform functionality, and violations of terms of service (IT Rules 2021, Rule 3(2), Rule 4(1)(a)).
+
+The most efficient strategy for intermediaries is to integrate these roles and processes. While the specific mandates of the GRO (data privacy) and GO (content/platform) differ, a single, well-coordinated grievance redressal department can streamline user experience and ensure consistent application of policies. This integration can also extend to how requests for data access or deletion (DPDPA Section 12) are handled in conjunction with requests for content removal or account suspension under IT Rules.
+
+## Data Security and Breach Notification
+
+The DPDPA imposes a clear obligation on Data Fiduciaries to implement reasonable security safeguards to prevent personal data breaches (DPDPA Section 8(5)) and mandates notification to the Data Protection Board of India and affected Data Principals in the event of a breach (DPDPA Section 9). While the IT Rules 2021 do not specifically detail personal data breach notification, the broader cybersecurity framework under the IT Act, 2000 (e.g., Section 43A, Section 72A) and directions issued by CERT-In, apply to intermediaries. These require reporting of cybersecurity incidents, which often encompass data breaches.
+
+Intermediaries must therefore develop comprehensive incident response plans that satisfy both sets of requirements. A personal data breach will almost certainly constitute a cybersecurity incident, necessitating reporting under both DPDPA and CERT-In guidelines. This demands a sophisticated understanding of what constitutes a 'personal data breach' under DPDPA versus a broader 'cybersecurity incident' and ensuring that notification protocols are aligned to meet the timelines and reporting formats of all relevant authorities.
+
+### Practical Takeaway
+
+Indian businesses operating as intermediaries must move beyond a piecemeal approach to compliance. A unified compliance framework is essential, integrating DPDPA's principles of data minimisation, consent, and user rights with the IT Rules' mandates for due diligence, content moderation, and grievance redressal. This requires cross-functional collaboration between legal, technology, and compliance teams, robust consent management platforms, streamlined grievance redressal mechanisms, and comprehensive data security and breach notification protocols. Regular audits, employee training, and clear internal policies are not just good practice, but critical for navigating this complex, yet interconnected, regulatory landscape.
