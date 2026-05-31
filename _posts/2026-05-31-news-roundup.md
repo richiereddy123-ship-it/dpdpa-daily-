@@ -1,0 +1,16 @@
+---
+title: "Privacy Law Roundup — May 31, 2026"
+date: 2026-05-31 12:09:37 +0530
+categories: [news, roundup]
+tags: [dpdpa, india, privacy, global, news]
+---
+
+## India: DPDPA Implementation & Rules
+
+The Digital Personal Data Protection Rules of 2025 have been released, providing crucial guidance on how the DPDPA's principles will be put into practice and outlining India's unique "middle path" compared to global data protection frameworks. These rules clarify the operational aspects of the DPDPA, detailing obligations for data fiduciaries and the mechanisms for compliance. A key operational impact highlighted is the new framework for cross-border data transfers, which will significantly shape how Indian businesses and global entities manage data flow.
+([Source](https://news.google.com/rss/articles/CBMiigJBVV95cUxPRjZRZFd0RXRXVDhDZktPSjVQZ1dIS1VYN0NESHNpTDRxQy1aYmRoNGhESl9rMTROVkt1SUhYRGxVVWdZNGJaYlBtcjRnUEU3MjI3Ti1TdjdrT2J2NW1teEdKYXlteVhpMWdqaUlMSGpqckZSSUQ5NXFwRE1jYnUtY3dUQ0xUSXJSenk5WDBWRE1BOWNGLWxHejN1MUVrMlRWRUJGSjFXSzBRNzRXOG1IQ2VyZVdQemJrbDdGLW03bzF2d0VXcm9TbUR2clpFbVpGaHhsazhTYlZTNDFWN2xBWmkyb3ZkTGlpaDh3WVdHZHdDTG4xNE8xbk9YeEdQa3hwZFctN3hDUmVVUQ), [Source](https://news.google.com/rss/articles/CBMihAFBVV95cUxONDh6V2U3SDY3d2UtblV1QTl4MXA4TTFoM3NxV1NiQXk5c1JDU3hQMmg2bnVjSVpPbURTdjJ3Z2NsOExteHp4dm1UNlNQa1AxUkRKSlF3bGlDRTVJcDNjWjdrT0czajFZaU5OR01MbnczSjZheUg4SWJQT04ya2RwengxdjI), [Source](https://news.google.com/rss/articles/CBMiggFBVV95cUxPMVMwREc4Tzhmc3VCQWh1a2tvNXFXQnBDSXVMWXZrRkNRT2gyZW9xUVd6ZDNlLUYzMGRRU3hiUVlncVVSRUJSM3NtZzhRSVJqNTFxdExxUVN4SE1hcGVpZW1iSU9QUzRmYjBtQUJsMVdQQWlydFkxbkk2S3Q0bXk5Uk1R))
+
+## India: DPDPA Legal Challenges
+
+The Supreme Court of India has formally issued notice on petitions challenging the constitutionality of both the DPDPA and the newly released DPDPA Rules 2025. These challenges include arguments against the Act's validity and its amendments to the Right to Information Act, highlighting ongoing legal scrutiny of India's new privacy framework. Additionally, concerns have been raised regarding the DPDPA's lack of a statutory definition for "harm," which could introduce interpretational uncertainty in future privacy adjudications.
+([Source](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSmROaEpHLTUtWW1Kal9HYlVINlpKRHE0M3BhYWs5MFVLQ0U2Z2FxMHRNMlZ6NXQwN1VWdkRBSGxmVnNwbEg4ZzRjS0gyZlFCSXNHN2FzSW5jU3BhX0UzNmVCY1hoVHY3a1VFSXMyMzBJSTNVcFFROHBTSVJBTkx5VWlDTWJjekVFUDhBeDY4SnF1ODJXa3Q2a2lnVGRpUWVCOTk2OXByenZZZ1FMSnhEV0FreE1EM2dSRHRKdHkwQ0RrNmFvUW5TMjJjRlhXbk14TEg4VzdDdldPQ19YM0R4ZnRvbzVITGZxMVN3MnVR0gHzAUFVX3lxTFBKbmZPMnAyY2ViMi05T0RJOGZpaUtWai03NWtkNU1CUDZSeU1vTERTOWVHai1MRTJXOG1VNF9xcXZrTldRcWhqX2tyQ2hReWxLeHpKVmtrWW5fdlRmR3dlUUJ3YWhHRVZXMUhzckVmUFNHZnBZOU1xdUpmYmhDUjZyeldPd3VmdTZvVzJ0MXBGbTFmcVVKWHVYVUZ5OVcyZGNBeDUzbWxCYXhVSUl1R3A3OFJjTjRIRUFFcGNqMEhWckZKV185WkhDVkhnYmlJNlQ2aExXNVdKaDlnVzRpdlFhdlNGeUh2dC1wZVUzUDhHeDY2OA), [Source](https://google.com/rss/articles/CBMioAFBVV95cUxNUXo3aUxwM1dVSWIzOUg4dzgtSkEtS210VFhhTkVIeS1KSHU4cHI0Vkd1enlUd0JKTmxHbTlpbDJyWVhPQmwzRWlpZnNXemZUcXRnOG51X0RYbGhYMElfejVJa2t4ZXhidnJEUkJaZVFLam50RkJubWo3VTJ2Q0YwSXAxVHk1UlhBSUsyVjdudk9RTEFraFhXT0M4UU5KNzZE), [Source](https://news.google.com/rss/articles/CBMipgFBVV95cUxPNy1KWXF6SEZ5dW92VWluVUVKYmRnQUNpZnpsV1dDRjRFMVVvS
