@@ -1,0 +1,33 @@
+---
+title: "Privacy Law Roundup — June 29, 2026"
+date: 2026-06-29 12:41:58 +0530
+categories: [news, roundup]
+tags: [dpdpa, india, privacy, global, news]
+---
+
+## India: DPDPA Takes Effect & Challenges Emerge
+
+India's Digital Personal Data Protection Act (DPDPA) 2023 has officially come into force with the finalization and notification of the Digital Personal Data Protection Rules 2025. This marks a pivotal moment for data privacy in India, establishing a comprehensive legal framework for the processing of digital personal data. The new rules provide the necessary operational details for the Act's implementation, including provisions for data fiduciary obligations and data principal rights.
+([Source](https://news.google.com/rss/articles/CBMiekFVX3lxTFA0MUhxR2JRbkZEUG81Smp1Uy02Z0xtdWZYSnlyLVJVSHQ2eWtleENVY2Iya2tVTUNveFE5Mm1FLUVwd01icDNwT0pqcFZyOGJVNmZSRGJoSjJUT21BOWxkOXFqTmhVRmNSVW5jSGFyQkVlblRoR2FTX01R?oc=5))
+([Source](https://news.google.com/rss/articles/CBMiswFBVV95cUxQdUpJd3Z3OTkwOTlFTEt0eUlMZzBsRC01UjQzN3RZQTJmbkoxcE1oaWtwM1hmM1NVMGZOSmYzV1NMcG1pdlR4Y2VER1V5b1ZuUWVEalcxX2QtVHNuRVEyM2czYWppcy10MHVWSzgtbDBqdG1KQndHSTJKT2ZvNDEtQURuQ2Y1ZjNuNm50cmVTSDFSMzJYQXFxZDFBSzdNMTY3eEgxMG43c2NaNVlQS1E5TjJUcw?oc=5))
+
+Immediately following the DPDPA's activation, the Supreme Court of India issued notice on constitutional challenges to both the Act and its newly notified Rules. This indicates potential legal hurdles ahead, as petitioners question various aspects of the framework's legality and scope. The outcome of these challenges will be crucial in shaping the long-term enforceability and interpretation of India's privacy law.
+([Source](https://news.google.com/rss/articles/CBMioAFBVV95cUxNUXo3aUxwM1dVSWIzOUg4dzgtSkEtS210VFhhTkVIeS1KSHU4cHI0Vkd1enlUd0JKTmxHbTlpbDJyWVhPQmwzRWlpZnNXemZUcXRnOG51X0RYbGhYMElfejVJa2t4ZXhidnJEUkJaZVFLam50RkJubWo3VTJ2Q0YwSXAxVHk1UlhBSUsyVjdudk9RTEFraFhXT0M4UU5KNzZE?oc=5))
+
+In a significant step towards institutionalizing enforcement, the Ministry of Electronics and Information Technology (MeitY) has invited applications for the chairperson and members of the Data Protection Board of India. This board will be the primary adjudicatory body responsible for enforcing the DPDPA and imposing penalties for non-compliance, marking a critical phase in operationalizing the new privacy regime.
+([Source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaVR4MW9NWUdLSkM5eEVJNFlNeWJBVVRRNzhaU3d0VGdlMlh0V0ExNlNrU2lUdllVMGpYdFFGQ3lIZ1kyOEFIbXNlWks2cHFSX2lTRlB4d1gxY1NDbU1FV3NfRFVYYTB2V29haVpVTEYyWmtDeHFHLURaYnZyaUtlTlptazN3dTc0cVVIajJoenhPTEVCRTFLZjlfVW94OU1YT0U5RWV2VjdZNnJULUlqd1ViM2RBQm02Ti1GTVpWc1hPNnUwZk5XdA?oc=5))
+
+## India: Implementation & Compliance Focus
+
+With the DPDPA now active, enterprises are urged to prioritize securing data at the source to ensure foundational compliance, moving beyond traditional perimeter security. Guidance is emerging for various sectors, including the banking industry, which faces specific requirements under the new data protection framework. Businesses of all sizes, including Micro, Small, and Medium Enterprises (MSMEs), are being advised on practical steps to navigate DPDPA compliance without necessarily requiring extensive IT resources.
+([Source](https://news.google.com/rss/articles/CBMitgFBVV95cUxOaEVDMVFZZndJVHZJcnZvUFUtOVowTVJ2ODg3WWtpeDkyLWZVakNtZGcwTU55UkxhZ1NWX3hMU0NXMF82dXdYbW84RjZjWGdCTHVHMHNjN2dfUEF4YXFIclhTcHBqZDhfbkNrcVRVMlM3TVkyY3c5OXRmZmxHRXB3UDU5RmRaQzFDVGttREFsbVJsa3R3dVJ2QndITWI1ZVRsRHZYZHBqZWFCQXpyZmk2QmlNdndzdw?oc=5))
+([Source](https://news.google.com/rss/articles/CBMimgFBVV95cUxORE1iX29JWVo5eW1PT29VNDZMb3RpR19sRjdMMnB4a3NjclB0eXZmQ052WmRqSUlYd1RfTC1SYVdTS2ZRc09kTkNzejkwWFM4aUxwS3YzZG41MGx4N2lfZjVIWmJuakJ5U2o4VDZjQUhhTExfS3R0UUdLdGMtb0hUVlp0SkZmZ21ERFhUVTVoLXk3QkNTbGk1ZV9B?oc=5))
+([Source](https://news.google.com/rss/articles/CBMihAJBVV95cUxPbE5kaDRmV2lfcEE2Sm1uaE40ZzJBblBFblZ5YTRMVUlVNFZGZWVINU1mNlFTTGc0OTAyVzhLSVhJRF9aLUlXTEE5Q01WSzBsZ3llTDFyU3FUY21iUHJ2UjlOcjFWTTU1Q1lRNXVQamlxb0tpRFdRYkpYaERKcW1HS0N2a2pWbDduZW94RmhFMFQ2ZVJSeHZnY0VNMi1ZWlBzeUZLeHFwcmFPa09NcXlGLXRmU2MxaUdhenRkQ3J4YW1ZWHQxVk1hb2V5bjJZRkxZVk45T0RWTXEwd0xWOWU5bjY1SXNuSVpINi1mZ2xmT3ZLQ2d6WUZfTEtXUnFRQ1RFS09RQdIBigJBVV95cUxPS1Z3OHBodmhHWFh6MEdkWDZEUzRpMHVobWlKQ01DRVpHa3REZ0ZHTHpnY1BFcnk3Z3JQeXY0cGtmMkdyUVB6N0FfQW5iclN6MjZ6Y3ZEUEZmUHJLdlhFQmNRUTJGTmRqWE9DZTNUR2xHM1ZDZzQ4VUpmRmNlbWtwZWR2SnVLejVaZWxIaTRzTmlPeG1uRWpZYnRGek1STkdjRXZzRUxVNjlVYUNKOVptbkViVGFVWGU1b0hJNDVOb2ZXeEJiYl82Qi1wQUtlWEpJQ2ZUcXIzUDA4SjhYeVhnOGpGY3FmTG5zOG9uOWtSaVlYbV9VSXktcTBraXpLbl8xUzFiLThxV25DZw?oc=5))
+
+Discussions continue regarding specific aspects of the DPDPA, including the implications for cross-border data transfers and the absence of a statutory definition for "harm," which could lead to interpretational uncertainties in privacy adjudication. Experts are analyzing how India's framework compares to global paradigms like the GDPR, noting its "middle path" approach. Additionally, the intersection of data protection and AI governance is a growing area of focus for Indian regulators and businesses.
+([Source](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVS1PT29WMXdwVDNad0llejctdmU1Tjg0VVBxbUFnd2s0VTRHN09vY0VXRjRyUENFaGJLbTItWFN6Skp1U0tqM0kyekZySHV1bmVRdHJSQVBXU3RhQXJ5X0Q2QVY3MXRWaTE5WkFtbE9QSFRyM01Ubjl5cXA3QkZ3LW5maXRkWXZNTTRhQTNkMGJfR3lRSHpvWDh6VjhadXpCSUtwVDNjbUxSakFFOVF2eE1EZm91MENaYkNEcV9FZW9uZw?oc=5))
+([Source](https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHFHUHJTc0pzTzY4QmlBMS1zVWE5LVlFeTc2RV9VQk9yUWd6c25PbFlVa2owWGsyZzUzZVRlV2lvTkt0NHg1eC03NUd4eFFEWDJtZWdfQjhqdEt4SDFtaU5NSkx0UjJ6ZUhNdllKR0V2RzV1UEhXUG5ySFVub3MwYlNBWXBtWlJhMzl3NnBzbUdlR1hId20tTEtSZkU2YXA5?oc=5))
+([Source](https://news.google.com/rss/articles/CBMiigJBVV95cUxPRjZRZFd0RXRXVDhDZktPSjVQZ1dIS1VYN0NESHNpTDRxQy1aYmRoNGhESl9rMTROVkt1SUhYRGxVVWdZNGJaYlBtcjRnUEU3MjI3Ti1TdjdrT2J2NW1teEdKYXlteVhpMWdqaUlMSGpqckZSSUQ5NXFwRE1jYnUtY3dUQ0xUSXJSenk5WDBWRE1BOWNGLWxHejN1MUVrMlRWRUJGSjFXSzBRNzRXOG1IQ2VyZVdQemJrbDdGLW03bzF2d0VXcm9TbUR2clpFbVpGaHhsazhTYlZTNDFWN2xBWGkyb3ZkTGlpaDh3WVdHZHdDTG4xNE8xbk9YeEdQa3hwZFctN3hDUmVVUQ?oc=5))
+([Source](https://news.google.com/rss/articles/CBMisAFBVV95cUxQb1llY2s2bzdpdG5lb2FBRk5FaDBKY1l1T2FoTlMzMmdsNHgzSzAxT3RGcGJ5Q1l6V0V5M3E3SkJCRV9obFVJSlJQMFZHYXlQeHdxbHFmSTFWby14NkhFUHhSS09uT0VobHZNZHZmblEzWkhuWVVTbTc4NVhoSWk2eWdRS05wdGJwOGlHejlsMW84ak1wdC1aMUtBemNPMS1EbXRVbnVlSjJuQllwNGhTTA?oc=5))
+
+Why it matters: India's DPDPA is now a reality, fundamentally reshaping data handling for businesses operating in or with India, while its immediate legal challenges and the formation of its enforcement board underscore the dynamic and evolving nature of global privacy landscapes.
