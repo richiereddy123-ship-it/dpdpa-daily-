@@ -1,0 +1,30 @@
+---
+title: "Navigating DPDPA's Consent Managers: Business, Liability, and Uncharted Waters"
+date: 2026-07-20 11:05:51 +0530
+categories: [analysis, india]
+tags: [DPDPA, Consent Managers, Data Privacy India, Compliance, Liability, india-focused]
+---
+
+The Digital Personal Data Protection Act, 2023 (DPDPA), now fully operational with its accompanying Rules, introduces a transformative element to India's data privacy landscape: the Consent Manager. This innovation, explicitly recognised under DPDPA Section 6(7), aims to empower Data Principals by providing a centralised, transparent mechanism to manage their consent for data processing. While the concept of granular consent is familiar globally, notably under the GDPR, India's DPDPA uniquely formalises the role of a dedicated Consent Manager (CM), setting the stage for a new ecosystem of privacy-focused services.
+
+## The Evolving Business Model of Consent Managers
+
+Consent Managers are envisioned as a critical intermediary, facilitating the flow of consent between Data Principals and Data Fiduciaries. Their core function, as outlined in DPDPA Section 6(7) and further detailed in the DPDPA Rules, is to enable Data Principals to give, manage, review, and withdraw their consent through a single, interoperable platform. This extends beyond initial consent to include facilitating the exercise of other Data Principal rights, such as the Right to Access Information (DPDPA Section 12).
+
+The business model for CMs is likely to be multifaceted. While Data Principals could theoretically pay for premium services, the primary revenue stream is expected to come from Data Fiduciaries. Fiduciaries stand to benefit from streamlined consent acquisition, reduced compliance burden, and enhanced trust from Data Principals, who are more likely to engage with a trusted CM. CMs could charge Fiduciaries for validating consent, ensuring adherence to DPDPA's stringent consent requirements (DPDPA Section 7), and providing secure channels for data access requests. Furthermore, the DPDPA Rules specify technical standards and operational requirements for CMs, necessitating robust infrastructure and security protocols, which will be built into their service offerings. This model draws parallels with the Reserve Bank of India's (RBI) Account Aggregator (AA) framework, which, while pre-dating DPDPA, established a similar consent-driven architecture for financial data, demonstrating a viable precedent for CMs in India.
+
+## Navigating the Liability Landscape
+
+A crucial aspect for all stakeholders is understanding the allocation of liability within this new framework. The DPDPA clearly places the primary responsibility for compliance on the Data Fiduciary. Even when consent is managed through a CM, the Data Fiduciary remains ultimately accountable for ensuring that personal data is processed lawfully, fairly, and transparently, and that valid consent has been obtained (DPDPA Section 7). The CM acts as an authorised agent for the Data Principal, facilitating consent, but does not absolve the Fiduciary of its core duties.
+
+However, Consent Managers themselves bear significant liabilities under the DPDPA. The DPDPA Rules specify that CMs must register with the Data Protection Board of India (DPBI) and adhere to strict technical, security, and operational standards. Failure to comply with these obligations, such as accurately transmitting consent signals, maintaining secure systems, or acting outside the Data Principal's instructions, could lead to penalties under DPDPA Section 30. For instance, if a CM's system suffers a breach leading to the unauthorised disclosure of consent preferences or personal data, the CM would be held liable as a Data Fiduciary for the data it directly processes and controls. Sectoral regulators like SEBI and IRDAI are also expected to issue specific guidelines, potentially adding layers of compliance and liability for CMs operating in their respective domains.
+
+## Open Questions and Future Challenges
+
+Despite the clarity on the CM's role, several questions remain as the ecosystem matures.
+Firstly, **interoperability** among different CMs is paramount. The DPDPA Rules mandate technical standards, but ensuring seamless communication and data exchange between various CM platforms and Data Fiduciary systems will be critical to prevent fragmentation and enhance user experience. The success of the AA framework in achieving interoperability offers a positive outlook.
+Secondly, **Data Principal adoption and trust** will dictate the CMs' success. How will individuals be educated and incentivised to use CMs? Building trust in these new intermediaries will require strong regulatory oversight and a proven track record of security and transparency.
+Thirdly, the potential for **regulatory overlap or conflict** between the DPBI and sectoral regulators (like RBI, SEBI, IRDAI) needs careful management. While the DPDPA is the overarching privacy law, sectoral bodies often have specific data governance norms. Harmonisation will be key to avoid undue burden on CMs and Fiduciaries.
+Finally, the precise scope of **data handling by CMs** themselves requires ongoing clarification. While their primary role is consent facilitation, they will inevitably process some personal data (e.g., identity, consent choices). The DPDPA Rules must clearly delineate what data CMs can collect, how they can use it, and for how long, ensuring they do not become new points of data aggregation risk.
+
+**Practical takeaway:** Indian businesses, GCs, and DPOs must proactively prepare for the integration of Consent Managers. This involves reviewing existing consent mechanisms to ensure DPDPA compliance, assessing the technical readiness to interact with CMs, and understanding the continuing liability for data processing even when CMs are involved. Engage with potential CM partners early, scrutinising their security protocols, compliance frameworks, and interoperability capabilities. For those in regulated sectors, close attention to specific guidelines from RBI, SEBI, or IRDAI regarding CMs will be essential to ensure comprehensive compliance.
