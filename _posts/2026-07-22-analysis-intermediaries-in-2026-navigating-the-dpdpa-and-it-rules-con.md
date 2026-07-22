@@ -1,0 +1,34 @@
+---
+title: "Intermediaries in 2026: Navigating the DPDPA and IT Rules Confluence"
+date: 2026-07-22 11:05:17 +0530
+categories: [analysis, india]
+tags: [DPDPA, IT Rules 2021, Intermediaries, Data Protection, Indian Law, india-focused]
+---
+
+As of July 2026, the Digital Personal Data Protection Act (DPDPA), 2023, is firmly in effect, fundamentally reshaping India's digital landscape. For intermediaries, a category already subject to the comprehensive Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 (IT Rules 2021), this new era presents a complex, often overlapping, and sometimes divergent set of compliance challenges. The DPDPA doesn't replace the IT Rules; rather, it overlays a robust personal data protection framework that demands a strategic, integrated approach from all entities handling personal data, particularly those facilitating online interactions.
+
+## The Dual Mandate: DPDPA and IT Rules for Intermediaries
+
+Intermediaries, ranging from social media platforms to e-commerce sites and cloud service providers, have long operated under the IT Act, 2000, and specifically the IT Rules 2021. These rules impose obligations such as due diligence, grievance redressal mechanisms (Rule 3(2)(a)), content moderation, and in the case of Significant Social Media Intermediaries (SSMIs), traceability requirements (Rule 4(2)). The DPDPA now introduces a new layer of responsibility by classifying many intermediaries as 'Data Fiduciaries' (DFs) when they determine the purpose and means of processing personal data, or 'Data Processors' (DPs) when they process data on behalf of another DF. This distinction is crucial, as DFs bear the primary burden of compliance under the DPDPA.
+
+The DPDPA mandates explicit, informed, and unambiguous consent for processing personal data (Section 6), a significant step beyond the often implied consent models prevalent under the IT Rules. It also introduces purpose limitation (Section 5), data minimisation, and stringent security safeguards (Section 8(5)). Crucially, intermediaries must now recognise and facilitate the exercise of 'Data Principal' rights, including the right to access information, correction, erasure, and nomination (Section 12), which were largely absent in the IT Rules' framework.
+
+## Harmonising Obligations: Consent, Rights, and Security
+
+While both legal frameworks address user protection, their scope and emphasis differ. The IT Rules primarily focus on content governance, user safety, and due diligence, often from a public interest perspective. The DPDPA, conversely, zeroes in on individual privacy and the protection of personal data. There are areas of clear synergy: both necessitate robust grievance redressal mechanisms. The IT Rules mandate a grievance officer (Rule 3(2)(a)), while the DPDPA requires DFs to establish an effective mechanism for Data Principals to exercise their rights and register grievances (Section 13). Intermediaries must ensure their existing grievance channels are equipped to handle DPDPA-specific requests, such as data access or erasure.
+
+Similarly, security safeguards are a common thread. The IT Rules require intermediaries to observe "due diligence" including "reasonable security practices" (Rule 3(1)(g)). The DPDPA goes further, mandating "reasonable security safeguards to prevent personal data breach" (Section 8(5)). This often means implementing technical and organisational measures comparable to global standards like those seen under the GDPR, albeit tailored to the Indian context. Furthermore, the DPDPA introduces a formal data breach notification requirement (Section 19) to the Data Protection Board of India (DPBI) and affected Data Principals, a more prescriptive obligation than previously existed.
+
+## Navigating Data Sharing and Accountability Frameworks
+
+One area where intermediaries face particular scrutiny is data sharing, especially with government agencies. The IT Rules contain provisions for disclosing information to lawful government requests. The DPDPA, while upholding the principle of processing for a "lawful purpose" (Section 4(2)), also includes exceptions for state instrumentalities in certain circumstances (Section 17). Intermediaries must carefully balance these demands, ensuring that any data sharing aligns with the DPDPA's principles of purpose limitation and necessity, and that Data Principals are informed where appropriate, unless specifically exempted.
+
+The DPDPA also introduces the concept of a 'Significant Data Fiduciary' (SDF) (Section 10), which may overlap with the IT Rules' SSMIs. SDFs face additional obligations, including appointing a Data Protection Officer (DPO), conducting Data Protection Impact Assessments (DPIAs), and undertaking periodic audits. While SSMIs already have certain enhanced responsibilities, the DPDPA's SDF criteria and obligations are distinct and focused purely on data protection, necessitating a separate assessment and compliance strategy.
+
+## The Cumulative Compliance Landscape
+
+Beyond the DPDPA and IT Rules, intermediaries operating in specific sectors must also contend with norms from sectoral regulators. For instance, entities handling financial data are subject to Reserve Bank of India (RBI) guidelines on data localisation and cybersecurity. Similarly, insurance intermediaries must adhere to IRDAI regulations, and capital market intermediaries to SEBI norms. The DPDPA (Section 40) clarifies that it supplements existing laws, and in case of conflict, the DPDPA generally prevails on matters of personal data protection unless other laws provide a higher standard. This means intermediaries face a cumulative compliance burden, where the most stringent standard across all applicable laws must be met. This multi-layered regulatory environment demands a sophisticated, integrated compliance framework that addresses the specific requirements of each law without creating internal contradictions.
+
+## Practical Takeaway
+
+Indian businesses, General Counsels, and Data Protection Officers (DPOs) of intermediary platforms must adopt a holistic, 'privacy by design' approach. This involves conducting thorough data mapping to understand what personal data is processed, for what purpose, and under what legal basis. Update privacy policies and terms of service to clearly articulate DPDPA-compliant consent mechanisms (Section 6) and Data Principal rights (Section 12). Strengthen existing grievance redressal systems to effectively handle DPDPA requests. For those likely to be designated as SDFs, proactively plan for DPO appointments, DPIAs, and independent audits. Finally, ensure robust security measures (Section 8(5)) are in place and a clear data breach response plan (Section 19) is ready, as the DPBI is now fully operational and penalties for non-compliance are substantial.
