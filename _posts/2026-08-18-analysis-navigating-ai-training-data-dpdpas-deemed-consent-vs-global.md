@@ -1,0 +1,38 @@
+---
+title: "Navigating AI Training Data: DPDPA's Deemed Consent vs. Global Frameworks"
+date: 2026-08-18 08:05:10 +0530
+categories: [analysis, comparative]
+tags: [DPDPA, AI Training Data, GDPR, UK ICO, Privacy Law, comparative]
+---
+
+As the global landscape of artificial intelligence rapidly evolves, so too does the scrutiny on the data that fuels these powerful systems. For businesses operating in India and looking globally, understanding the legal bases for processing personal data for AI training is paramount. India's Digital Personal Data Protection Act, 2023 (DPDPA), presents a unique approach, particularly through its concept of "deemed consent," which stands in contrast to the established "legitimate interest" basis found in the EU's General Data Protection Regulation (GDPR) and elaborated upon by the UK Information Commissioner's Office (ICO). This analysis anchors on the Indian framework, comparing its nuances with its foreign counterparts.
+
+## DPDPA's Deemed Consent and the AI Training Conundrum
+
+The DPDPA primarily mandates consent as the lawful basis for processing personal data, as outlined in Section 6. However, it also introduces "deemed consent" under Section 7, allowing data processing without explicit consent in specific circumstances. For AI training data, the most relevant provisions under deemed consent would likely be Section 7(a), pertaining to data voluntarily provided by the Data Principal for a specified purpose, or potentially Section 7(e), which covers processing "for any purpose that is in public interest" or "for the performance of any function under any law." Critically, the DPDPA does not explicitly list AI training or research as a specific ground for deemed consent.
+
+This creates a significant "gap" or ambiguity. While a data fiduciary might argue that processing data for AI training falls under a "reasonable expectation" (a general principle underlying some deemed consent provisions, though not explicitly an enumerated ground for AI training), or that it serves a public interest, the DPDPA currently lacks specific guidance. The interpretation of these broad terms will ultimately rest with the Data Protection Board of India (DPBI) under Section 10. Without clear guidance, Indian businesses face uncertainty regarding the legal validity of using existing data for AI training if explicit consent for that specific purpose was not obtained. This reliance on a potentially narrow interpretation of deemed consent, or the absence of a clear alternative, makes the DPDPA potentially stricter in its requirements for AI training data compared to more flexible frameworks. Other Indian regulations, such as the IT (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, and RBI guidelines, primarily focus on data security, retention, and localisation, rather than the specific consent mechanisms for AI training data.
+
+## GDPR's Legitimate Interest: A Flexible Pathway
+
+In contrast, the GDPR offers a more explicit and widely used legal basis for processing personal data for AI training: "legitimate interest" under Article 6(1)(f). This provision allows processing when it is "necessary for the purposes of the legitimate interests pursued by the controller or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the data subject which require protection of personal data."
+
+To rely on legitimate interest for AI training, data controllers must perform a three-part test: identify a legitimate interest (e.g., developing new AI products, improving services), demonstrate that the processing is necessary to achieve that interest, and conduct a balancing test to ensure the data subject's rights and freedoms are not unduly overridden. This often involves measures like anonymisation, pseudonymisation, data minimisation (Article 5(1)(c)), and transparency (Article 5(1)(a)). While not a free pass, Article 6(1)(f) provides a well-defined, albeit accountability-heavy, pathway for AI development, making the GDPR comparatively looser than DPDPA's current ambiguity on AI training, but stricter in its demands for detailed justification and impact assessments.
+
+## UK ICO Guidance: Practical Application and Accountability
+
+The UK, post-Brexit, largely retains the GDPR's principles but has its own regulatory body, the ICO, which provides specific guidance on AI and data protection. The ICO's framework for AI development strongly endorses legitimate interest (Article 6(1)(f) of the UK GDPR) as a suitable lawful basis, particularly when explicit consent is impractical or would undermine the research. Their guidance emphasizes the importance of conducting a Data Protection Impact Assessment (DPIA) under Article 35 for AI projects, especially those involving novel uses of personal data or large-scale processing.
+
+The ICO stresses the need for transparency, fairness, and accountability throughout the AI lifecycle, from data collection to deployment. It provides practical advice on how to conduct the balancing test, advising organisations to consider the nature of the data, the impact on data subjects, and the safeguards in place. This guidance effectively translates the broad principles of GDPR into actionable steps for AI developers. The UK framework, therefore, is similar to GDPR in its flexibility for AI training but is stricter in providing detailed expectations for compliance and risk mitigation, offering a clear roadmap that is currently absent in the DPDPA.
+
+## Comparative Analysis: Stricter, Looser, or Silent
+
+Comparing these frameworks, the DPDPA is notably *silent* on explicit provisions for AI training data under deemed consent, creating a significant area of uncertainty. This silence makes it *looser* in terms of specific prescriptive guidance for AI developers but potentially *stricter* in practice, as establishing a clear lawful basis without explicit consent or specific DPBI interpretation becomes challenging.
+
+In contrast, the GDPR's Article 6(1)(f) and the UK ICO's guidance offer a *clearer and more flexible* pathway for AI training through legitimate interest. However, this flexibility comes with *stricter* requirements for accountability, necessitating robust balancing tests, DPIAs, and adherence to principles like data minimisation and transparency. These frameworks place the onus on the data fiduciary to justify and document their processing, a level of detailed due diligence that the DPDPA will likely demand once its specific rules for deemed consent are clarified.
+
+## Practical Takeaway
+
+For Indian businesses, General Counsels, and Data Protection Officers engaged in AI development, the current landscape demands a cautious and proactive approach. Given the DPDPA's emphasis on consent and the ambiguity surrounding AI training under deemed consent (Section 7), it is prudent to seek explicit consent wherever feasible. Where explicit consent is not practical, organisations must meticulously document their rationale for relying on deemed consent, particularly under Section 7(a) or 7(e), anticipating scrutiny from the DPBI.
+
+Furthermore, adopting best practices from GDPR and UK ICO guidance—such as conducting comprehensive data protection impact assessments, implementing robust data minimisation techniques, ensuring transparency with data principals about AI uses, and maintaining detailed records of processing activities and their legal bases—is highly advisable. These measures not only align with global privacy principles but also prepare organisations for the likely interpretations and future regulations from the DPBI, ensuring a more resilient and compliant AI development strategy in India.
