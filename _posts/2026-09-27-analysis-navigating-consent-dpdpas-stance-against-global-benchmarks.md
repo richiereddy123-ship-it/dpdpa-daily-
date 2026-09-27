@@ -1,0 +1,28 @@
+---
+title: "Navigating Consent: DPDPA's Stance Against Global Benchmarks"
+date: 2026-09-27 13:05:39 +0530
+categories: [analysis, comparative]
+tags: [DPDPA, GDPR, Consent, India Privacy Law, Data Protection, comparative]
+---
+
+The Digital Personal Data Protection Act, 2023 (DPDPA), along with its accompanying DPDP Rules 2025, has firmly established India's comprehensive data protection framework. For Indian businesses, understanding the nuances of consent under DPDPA Section 6, particularly in comparison to global benchmarks like the EU's General Data Protection Regulation (GDPR) Article 7, is crucial. This analysis delves into the critical aspects of consent granularity, withdrawal mechanisms, and the onus of proof, highlighting the similarities and distinctions that shape compliance obligations.
+
+## Granularity and Specificity of Consent
+
+Both the DPDPA and the GDPR emphasize that consent must be specific and informed. Under DPDPA Section 6(1)(a), valid consent must be "clear and affirmative," and explicitly defined as "free, specific, informed, unconditional, and unambiguous." The inclusion of "unconditional" is noteworthy. While GDPR Article 4(11) defines consent as "freely given, specific, informed and unambiguous," and Article 7(2) requires consent requests to be "clearly distinguishable from other matters," the DPDPA's explicit mention of "unconditional" might be interpreted as a stricter stance against bundled consent, where agreement to one processing activity is made a condition for accessing an unrelated service. This means Data Fiduciaries in India must be particularly diligent in ensuring that consent is sought for each distinct processing purpose, without making service access contingent on agreeing to non-essential data uses. The DPDP Rules 2025 are expected to provide further clarity on the presentation and format of consent notices to ensure this granularity.
+
+## Ease of Withdrawal
+
+The right to withdraw consent is a cornerstone of data principal autonomy in both regimes. DPDPA Section 6(4) clearly stipulates that a Data Principal has the right to withdraw their consent at any time, and importantly, the process for withdrawal must be "as easy as the process for giving consent." This mirrors the provision in GDPR Article 7(3), which states that the data subject shall have the right to withdraw their consent at any time, and that it must be "as easy to withdraw as to give consent." Both frameworks impose a significant operational burden on data controllers/fiduciaries to implement user-friendly and readily accessible mechanisms for consent withdrawal. For Indian businesses, this means ensuring that consent management platforms offer straightforward options for principals to revoke their permission, and that such withdrawal leads to the cessation of processing for the specified purpose without undue delay or penalty.
+
+## Onus of Proof
+
+A critical shared principle between the DPDPA and the GDPR is the explicit placement of the burden of proof for demonstrating consent. DPDPA Section 6(5) unequivocally states that the "Data Fiduciary shall be able to demonstrate that the Data Principal has given consent" for the processing of their personal data. This is directly aligned with GDPR Article 7(1), which mandates that "where processing is based on consent, the controller shall be able to demonstrate that the data subject has consented to processing of his or her personal data." This provision is a powerful tool for accountability, requiring Data Fiduciaries to maintain meticulous records of consent, including when and how it was obtained, what specific purposes it covered, and how it was communicated. This shared strictness underscores the importance of robust consent management systems globally.
+
+## Indian Context: Beyond DPDPA
+
+While DPDPA sets the overarching standard, India's regulatory landscape also includes sector-specific guidelines that reinforce consent principles. For instance, the Reserve Bank of India (RBI) has long emphasized consent in financial data handling, particularly with initiatives like account aggregators and tokenization, which inherently require clear data principal consent for sharing and processing financial information. Similarly, the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011 (IT Rules 2011), specifically Rule 5(3), previously required consent for the collection of sensitive personal data or information. The DPDPA builds upon these existing foundations, providing a more comprehensive and uniformly applicable framework for consent across all sectors, thereby consolidating and strengthening India's position on data principal rights.
+
+## Practical Takeaway
+
+Indian businesses, including General Counsels and Data Protection Officers, must prioritize the development and implementation of robust consent management frameworks that align with the DPDPA's stringent requirements. This involves ensuring that consent notices are clear, specific, and explicitly "unconditional" for each processing purpose. Systems must be in place to record consent accurately, demonstrating the date, method, and scope of permission obtained, in line with DPDPA Section 6(5). Furthermore, the ease of consent withdrawal, as mandated by DPDPA Section 6(4), necessitates user-friendly interfaces and prompt cessation of processing upon revocation. Adopting these practices not only ensures compliance with Indian law but also positions businesses favorably when engaging with global markets governed by similarly strict regimes like the GDPR.
